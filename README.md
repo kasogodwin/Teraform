@@ -69,3 +69,7 @@ Create new folder terraform-bins
 Copy the terraform.exe to a terraform-bins
 Set PATH in windows
 Install AWS CLI
+
+  https://www.terraform.io/downloads
+  
+  
